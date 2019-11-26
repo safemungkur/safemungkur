@@ -21,11 +21,11 @@ if(a_to_vh==false)
 {var encryptedUrl=Base64.encode(a_to_vi);
 var x=Math.floor((Math.random()*5)+ 1);
 var xxx=null;
-if(x=="1"){xxx="11/legal-assistant-corner-safeguard-yourself-against-burnout.html"}
-if(x=="2"){xxx="11/top-financial-tips-for-millennials.html"}
-if(x=="3"){xxx="11/what-are-the-pros-and-cons-of-government.html"}
-if(x=="4"){xxx="11/what-really-are-human-rights.html"}
-if(x=="5"){xxx="11/6-qualities-to-expect-from-good.html"}a_to_ve[i].href="https://www.safemungkur.my.id/2019/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
+if(x=="1"){xxx="2019/11/legal-assistant-corner-safeguard-yourself-against-burnout.html"}
+if(x=="2"){xxx="2019/11/top-financial-tips-for-millennials.html"}
+if(x=="3"){xxx="2019/11/what-are-the-pros-and-cons-of-government.html"}
+if(x=="4"){xxx="2019/11/what-really-are-human-rights.html"}
+if(x=="5"){xxx="2019/11/6-qualities-to-expect-from-good.html"}a_to_ve[i].href="https://www.safemungkur.my.id/"+xxx+"?url="+ encryptedUrl;a_to_ve[i].rel="nofollow";a_to_vb++;a_to_vc+=i+":::"+ a_to_ve[i].href+"\n";}}
 var a_to_vj=document.getElementById("anonyminized");var a_to_vk=document.getElementById("found_links");if(a_to_vj)
 {a_to_vj.innerHTML+=a_to_vb;}
 if(a_to_vk)
